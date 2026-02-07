@@ -1,2 +1,53 @@
 # System-Design
 Links and theory 
+
+
+1. JWT: https://lnkd.in/gdF2ce3K
+
+2. Idempotency: https://lnkd.in/gj5YZCKs
+
+3. Rate limiting: https://lnkd.in/gFe2knKy
+
+4. Observability: https://lnkd.in/gdvfWN-Y
+
+5. Microservices: https://lnkd.in/gWJGQ4TH
+
+6. CI/CD pipelines: https://lnkd.in/gjYE-XZx
+
+7. ACID vs BASE: https://lnkd.in/g2Cw_NZX
+
+8. Change Data Capture (CDC): https://lnkd.in/giRj-4Sk
+
+9. Database types: https://lnkd.in/g3qra9q4
+
+10. System design quality attributes: https://lnkd.in/gxmr9SMD
+
+11. Health checks vs heartbeats: https://lnkd.in/gurQrfYF
+
+12. API gateway vs load balancer vs reverse proxy: https://lnkd.in/gb7RZvQN 
+
+13. HTTPS: https://lnkd.in/gS-Q9jBn
+
+14. Load balancing algorithms: https://lnkd.in/g3MiDnUc
+
+15. Database caching: https://lnkd.in/g3n3b9JE
+
+16. CDN: https://lnkd.in/gdB63sSx
+
+17. API protocols: https://lnkd.in/gqwB-3Bc
+
+18. Database types: https://lnkd.in/g3qra9q4
+
+19. gRPC: https://lnkd.in/gzmpF_b3
+
+20. SQL vs NoSQL:https://lnkd.in/gVvBWQRc
+
+21. Message queues: https://lnkd.in/g6SEbyJb
+
+22. Service discovery: https://lnkd.in/gQnHtbRV
+
+23. Pub/sub: https://lnkd.in/gNWadRiv
+
+24. Connection pooling: https://lnkd.in/ga3dVMpK
+
+25. Consistent hashing: https://lnkd.in/gY-hpmZW
