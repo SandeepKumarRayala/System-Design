@@ -1,0 +1,74 @@
+
+1️⃣ How Stock Exchange Works
+Low latency, matching engines, fault tolerance
+🎥 https://lnkd.in/gCXk-Pti
+
+2️⃣ How Payment Systems Work
+Transactions, idempotency, consistency, fraud handling
+🎥 https://lnkd.in/gxmrEKS4
+
+3️⃣ How YouTube Works
+
+Video storage, CDN, encoding pipelines, scaling
+🎥https://lnkd.in/gWFXwe67
+
+4️⃣ How Google Docs Works
+
+Real-time collaboration, CRDTs, sync conflicts
+🎥 https://lnkd.in/g-iF2XVm
+
+5️⃣ How Kafka Works
+Event streaming, partitions, brokers, replication
+🎥 https://lnkd.in/gBiu9ePG
+
+6️⃣ How URL Shortener Works
+Database design, hashing, scaling
+🎥 https://lnkd.in/gHmAvbHY
+
+7️⃣ How WhatsApp Works
+Message queues, delivery guarantees, presence systems
+🎥 https://lnkd.in/g-iF2XVm
+
+8️⃣ How Airbnb Works
+Marketplace scaling, booking workflows
+🎥 (Search in above playlist – Airbnb System Design)
+
+9️⃣ How Spotify Works
+Music streaming architecture, caching
+🎥 (Search Spotify system design in same playlist)
+
+🔟 How Slack Works
+Chat architecture, WebSockets, event-driven systems
+🎥 (Slack system design in same playlist)
+
+1️⃣1️⃣ How Reddit Works
+Feed generation, ranking, caching
+🎥 (Reddit system design in same playlist)
+
+1️⃣2️⃣ How Uber Finds Nearby Drivers
+Geospatial indexing, proximity search
+🎥 https://lnkd.in/gGcy4s3V]
+
+1️⃣3️⃣ How Amazon S3 Works
+Distributed storage, replication, durability
+🎥 https://lnkd.in/gZbQ5Q4M
+
+1️⃣4️⃣ How LLM Systems (like ChatGPT) Work
+Inference scaling, model serving, pipelines
+🎥 https://lnkd.in/gZbQ5Q4M
+
+💡 How to Use This List
+Don’t just watch.
+1. Pause the video.
+2. Draw the architecture yourself.
+3. Identify bottlenecks.
+4. Suggest improvements.
+
+That’s how you actually improve at system design.
+
+System design isn’t about knowing buzzwords.
+It’s about understanding trade-offs.
+
+If you go deep into even 6–7 of these systems, you’ll be ahead of 90% of candidates walking into interviews at companies like Google, Amazon, and Meta.
+
+If this helps, save it for later — this is easily 2–3 months of structured learning. 🔥
